@@ -63,10 +63,10 @@ RegisterNumber:24900585
 ![image](https://github.com/user-attachments/assets/0dfa5b5d-98b4-49bf-9a9a-756e8c06e2a4)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/user-attachments/assets/0371d816-2b74-4aa2-af17-a4ff5324f4ad)
 
 
-**RESULTS**
+**RESULT**
 
 T flipflop is implemented using verilog and validated their functionality using their functional tables.
